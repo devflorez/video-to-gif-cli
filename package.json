@@ -1,0 +1,14 @@
+{
+  "name": "video-to-gif-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": {
+    "v2gif": "./bin/v2gif.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^11.0.0",
+    "ora": "^7.0.0"
+  }
+}
